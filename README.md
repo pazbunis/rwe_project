@@ -3,6 +3,5 @@
 
 A project by Amit Mandelbaum and Paz Bunis.
 
-Course: Real World Evidence (67675)
-Hebrew University of Jerusalem (HUJI), 2017
+Course: Real World Evidence (67675), The Hebrew University of Jerusalem (HUJI), 2017
 
